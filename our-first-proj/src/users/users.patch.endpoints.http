@@ -1,0 +1,5 @@
+PATCH http://localhost:3000/users/2
+Content-Type:"applocation/json"
+{
+  "name": "John Doe Patched"
+}
