@@ -1,0 +1,6 @@
+PUT http://localhost:3000/users/2
+Content-Type: application/json
+{
+  "name": "John Doe Updated",
+  "email":"meow@aiub.edu"
+}

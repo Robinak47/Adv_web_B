@@ -1,0 +1,9 @@
+POST http://localhost:3000/users
+Content-Type: application/json
+{
+  "name": "meow",
+  "email":"meow@aiub.edu",
+  "age": 20,
+  "password": "meow1234"
+  
+}
